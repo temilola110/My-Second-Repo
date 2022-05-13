@@ -1,0 +1,14 @@
+ Create a folder called learn_git . (Make sure you do this from a folder that isn't a git repository )
+cd into the learn_git folder.
+Create a folder called first_txt.
+Initialize an empty git repository.
+Add first.txt to the staging area.
+Commit with the message "adding first.txt".
+Check out your commit with git log.
+Create another file called second.txt to the staging area.
+Add second.txt to the staging area.
+Commit with the message "adding second.txt".
+Remove the first.txt file. 
+Add this change to the staging area.
+Commit with the message "removing first.txt".
+Check out your commits using git log.
